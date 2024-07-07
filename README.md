@@ -5,7 +5,7 @@ It is a Python-based GUI interface that allows users to manage tasks with differ
 
 ## Features ✨
 
-- **Task Management:** Add tasks with priorities (low, medium, high).
+- **Task Management:** Add tasks with priorities (low- 🟢, medium- 🟡, high- 🔴).
 - **Interactive GUI:** Simple and intuitive interface using customtkinter for enhanced UI elements.
 - **Task Actions:** Mark tasks as completed or delete them directly from the list.
 - **Customizable:** Easily extendable and customizable for specific needs.
