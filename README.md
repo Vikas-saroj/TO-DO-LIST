@@ -58,7 +58,7 @@ It is a Python-based GUI interface that allows users to manage tasks with differ
     
 ## Screenshots 📸
 
-![App Screenshot](https://github.com/Vikas-saroj/TO-DO-LIST/blob/main/Screenshots/todo.gif)
+   ![Screenshot](https://github.com/Vikas-saroj/TO-DO-LIST/blob/main/Screenshots/todo.gif)
 
 
 ## Contributing 🤝
