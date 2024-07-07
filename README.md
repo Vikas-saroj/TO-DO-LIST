@@ -44,16 +44,16 @@ It is a Python-based GUI interface that allows users to manage tasks with differ
    - Use the delete button on each task card to remove tasks from the list.
 
 ## 📂 File Structure
-   TO DO LIST/
-   ├── images
-   │   └── check.png
-   │   ├──delete.png
-   │   ├── edit.png        
-   │   └── to-do-list.ico  
-   │
-   ├── LICENSE
-   ├── README.md
-   └──To-do-list.py
+   TO DO LIST/\
+   ├── images\
+   │   └── check.png\
+   │   ├──delete.png\
+   │   ├── edit.png\      
+   │   └── to-do-list.ico\  
+   │\
+   ├── LICENSE\
+   ├── README.md\
+   └──To-do-list.py\
     
 ## Screenshots 📸
 
@@ -64,12 +64,12 @@ It is a Python-based GUI interface that allows users to manage tasks with differ
 Contributions are welcome! Please fork the repository and create a pull request with your proposed features or fixes.
 
 ## License 📄
-This project is licensed under the MIT License - see the LICENSE file for details.
-[![MIT License](https://img.shields.io/github/license/Vikas-saroj/TO-DO-LIST)](https://github.com/Vikas-saroj/CODSOFT/TO-DO-LIST/blob/main/LICENSE)
+This project is licensed under the MIT License - see the LICENSE file for details.\
+[![MIT License](https://img.shields.io/github/license/Vikas-saroj/TO-DO-LIST)](https://github.com/Vikas-saroj/TO-DO-LIST/blob/main/LICENSE)
 
 ---
 
 ⭐️ Don't forget to give this project a star if you found it helpful!
 
-![GitHub stars](https://img.shields.io/github/stars/Vikas-saroj/CODSOFT/TO-DO-LIST)
+![GitHub stars](https://img.shields.io/github/stars/Vikas-saroj/TO-DO-LIST)
 
