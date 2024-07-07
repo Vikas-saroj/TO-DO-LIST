@@ -20,7 +20,7 @@ It is a Python-based GUI interface that allows users to manage tasks with differ
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Vikas-saroj/CODSOFT/TO-DO-LIST.git
+   git clone https://github.com/Vikas-saroj/TO-DO-LIST.git
    ```
 
 2. **Install dependencies:**
@@ -51,6 +51,7 @@ It is a Python-based GUI interface that allows users to manage tasks with differ
    │   ├── edit.png        
    │   └── to-do-list.ico  
    │
+   ├── LICENSE
    ├── README.md
    └──To-do-list.py
     
@@ -64,5 +65,11 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## License 📄
 This project is licensed under the MIT License - see the LICENSE file for details.
-[![MIT License](https://img.shields.io/github/license/Vikas-saroj/CODSOFT/
-)](https://github.com/Vikas-saroj/CODSOFT/TO-DO-LIST/blob/main/LICENSE)
+[![MIT License](https://img.shields.io/github/license/Vikas-saroj/TO-DO-LIST)](https://github.com/Vikas-saroj/CODSOFT/TO-DO-LIST/blob/main/LICENSE)
+
+---
+
+⭐️ Don't forget to give this project a star if you found it helpful!
+
+![GitHub stars](https://img.shields.io/github/stars/Vikas-saroj/CODSOFT/TO-DO-LIST)
+
