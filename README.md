@@ -31,7 +31,7 @@ It is a Python-based GUI interface that allows users to manage tasks with differ
 3. **Run the application:**
 
    ```bash
-   python todolist.py
+   python to-do-list.py
    ```
 4. **Getting Started**
 
@@ -45,6 +45,7 @@ It is a Python-based GUI interface that allows users to manage tasks with differ
 
 ## 📂 File Structure
    TO DO LIST/\
+   ├── Screenshots\
    ├── images\
    │   └── check.png\
    │   ├──delete.png\
@@ -57,7 +58,7 @@ It is a Python-based GUI interface that allows users to manage tasks with differ
     
 ## Screenshots 📸
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Vikas-saroj/TO-DO-LIST/blob/main/Screenshots/todo.gif)
 
 
 ## Contributing 🤝
