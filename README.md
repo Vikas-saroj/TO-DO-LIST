@@ -47,10 +47,10 @@ It is a Python-based GUI interface that allows users to manage tasks with differ
    TO DO LIST/\
    ├── Screenshots\
    ├── images\
-   │\t\t└── check.png\
-   │\t\t├──delete.png\
-   │\t\t├── edit.png\      
-   │\t\t└── to-do-list.ico\  
+   │/t/t└── check.png\
+   │      ├──delete.png\
+   │      ├── edit.png\      
+   │      └── to-do-list.ico\  
    │\
    ├── LICENSE\
    ├── README.md\
