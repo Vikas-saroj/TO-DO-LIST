@@ -47,10 +47,10 @@ It is a Python-based GUI interface that allows users to manage tasks with differ
    TO DO LIST/\
    ├── Screenshots\
    ├── images\
-   │   └── check.png\
-   │   ├──delete.png\
-   │   ├── edit.png\      
-   │   └── to-do-list.ico\  
+   │        └── check.png\
+   │        ├──delete.png\
+   │        ├── edit.png\      
+   │        └── to-do-list.ico\  
    │\
    ├── LICENSE\
    ├── README.md\
@@ -72,5 +72,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ⭐️ Don't forget to give this project a star if you found it helpful!
 
-![GitHub stars](https://img.shields.io/github/stars/Vikas-saroj/TO-DO-LIST)
+![GitHub stars](https://img.shields.io/github/stars/Vikas-saroj/TO-DO-LIST?style=social)
 
