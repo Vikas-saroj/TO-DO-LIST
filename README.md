@@ -42,24 +42,11 @@ It is a Python-based GUI interface that allows users to manage tasks with differ
    - Press the 'Add Task' button to create a new task.
    - Use the check button on each task card to mark tasks as completed.
    - Use the delete button on each task card to remove tasks from the list.
-
-## 📂 File Structure
-   TO DO LIST/\
-   ├── Screenshots\
-   ├── images\
-   │/t/t└── check.png\
-   │      ├──delete.png\
-   │      ├── edit.png\      
-   │      └── to-do-list.ico\  
-   │\
-   ├── LICENSE\
-   ├── README.md\
-   └──To-do-list.py\
     
 ## Screenshots 📸
-
-   ![Screenshot](https://github.com/Vikas-saroj/TO-DO-LIST/blob/main/Screenshots/todo.gif)
-
+<p align="center">
+  <img src="./Screenshots/todo.gif" alt="showcase">
+</p>
 
 ## Contributing 🤝
 Contributions are welcome! Please fork the repository and create a pull request with your proposed features or fixes.
