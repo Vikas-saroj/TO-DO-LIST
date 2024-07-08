@@ -52,7 +52,7 @@ It is a Python-based GUI interface that allows users to manage tasks with differ
 Contributions are welcome! Please fork the repository and create a pull request with your proposed features or fixes.
 
 ## License 📄
-This project is licensed under the MIT License - see the LICENSE file for details.\
+This project is licensed under the MIT [License](https://github.com/Vikas-saroj/TO-DO-LIST/blob/main/LICENSE) - see the LICENSE file for details.\
 [![MIT License](https://img.shields.io/github/license/Vikas-saroj/TO-DO-LIST)](https://github.com/Vikas-saroj/TO-DO-LIST/blob/main/LICENSE)
 
 ---
